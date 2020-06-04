@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.Abhilash.test.Tartecosmetics">
+        <methods>
+          <include name="AddItem1ForBag"/>
+          <include name="addItem2"/>
+          <include name="RemoveItemfromBag"/>
+          <include name="NavigateToWebsite"/>
+          <include name="SelectItem1FromNewArrival"/>
+          <include name="SelectNewArrial"/>
+          <include name="LaunchBrowser"/>
+        </methods>
+      </class> <!-- com.Abhilash.test.Tartecosmetics -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

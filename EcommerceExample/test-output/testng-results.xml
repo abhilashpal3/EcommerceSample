@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33636" started-at="2020-06-04T18:27:16Z" finished-at="2020-06-04T18:27:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33636" started-at="2020-06-04T18:27:16Z" finished-at="2020-06-04T18:27:49Z">
+      <class name="com.Abhilash.test.Tartecosmetics">
+        <test-method status="PASS" signature="LaunchBrowser()[pri:0, instance:com.Abhilash.test.Tartecosmetics@1ce92674]" name="LaunchBrowser" is-config="true" duration-ms="8744" started-at="2020-06-04T18:27:07Z" finished-at="2020-06-04T18:27:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+        <test-method status="PASS" signature="NavigateToWebsite()[pri:0, instance:com.Abhilash.test.Tartecosmetics@1ce92674]" name="NavigateToWebsite" is-config="true" duration-ms="15641" started-at="2020-06-04T18:27:16Z" finished-at="2020-06-04T18:27:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateToWebsite -->
+        <test-method status="PASS" signature="SelectNewArrial()[pri:0, instance:com.Abhilash.test.Tartecosmetics@1ce92674]" name="SelectNewArrial" duration-ms="3257" started-at="2020-06-04T18:27:31Z" finished-at="2020-06-04T18:27:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectNewArrial -->
+        <test-method status="PASS" signature="SelectItem1FromNewArrival()[pri:2, instance:com.Abhilash.test.Tartecosmetics@1ce92674]" name="SelectItem1FromNewArrival" duration-ms="4875" started-at="2020-06-04T18:27:35Z" finished-at="2020-06-04T18:27:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectItem1FromNewArrival -->
+        <test-method status="PASS" signature="AddItem1ForBag()[pri:3, instance:com.Abhilash.test.Tartecosmetics@1ce92674]" name="AddItem1ForBag" duration-ms="156" started-at="2020-06-04T18:27:39Z" finished-at="2020-06-04T18:27:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddItem1ForBag -->
+        <test-method status="PASS" signature="addItem2()[pri:4, instance:com.Abhilash.test.Tartecosmetics@1ce92674]" name="addItem2" duration-ms="5981" started-at="2020-06-04T18:27:40Z" finished-at="2020-06-04T18:27:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addItem2 -->
+        <test-method status="PASS" signature="RemoveItemfromBag()[pri:5, instance:com.Abhilash.test.Tartecosmetics@1ce92674]" name="RemoveItemfromBag" duration-ms="3678" started-at="2020-06-04T18:27:46Z" description="Item removing task" finished-at="2020-06-04T18:27:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RemoveItemfromBag -->
+      </class> <!-- com.Abhilash.test.Tartecosmetics -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
